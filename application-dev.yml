@@ -1,0 +1,4 @@
+simpleapp:
+  message: "This is from dev config"
+  developer: "Developer"
+  contact: "1234567890"
