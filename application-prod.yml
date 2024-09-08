@@ -1,0 +1,4 @@
+simpleapp:
+  message: "This is from prod config"
+  developer: "Associate"
+  contact: "*****678*"
